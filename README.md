@@ -52,7 +52,6 @@ gostaria de ter tido** naquela época.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/raul-luiz-celestino-2a6215423/)
 - 📧 [raulluizcelestino@gmail.com](mailto:raulluizcelestino@gmail.com)
-- 📞 (11) 95776-5996
 - 🌍 Aberto a oportunidades e a colaboração em projetos open source
 
 ---
