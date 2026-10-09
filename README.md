@@ -33,6 +33,10 @@ gostaria de ter tido** naquela época.
 | ✈️ [**FlightDesk**](https://github.com/Foxy556/FlightDesk) | Checklists operacionais, gestão de incidentes e post-mortems sem culpa | Next.js · Prisma · TypeScript |
 | 📝 [**apontamentos**](https://github.com/Foxy556/apontamentos) | Apontamentos e desvios de campo com sync Notion, IA e 2FA | Next.js · Notion API · Groq |
 | 🌐 [**net_troubleshoot**](https://github.com/Foxy556/net_troubleshoot) | Diagnóstico de rede em camadas (L2 → L7) com relatório JSON | Python · CLI |
+| 📡 [**status-page**](https://github.com/Foxy556/status-page) | Painel de status com verificação ao vivo de serviços | Next.js · TypeScript |
+| 🔎 [**hostcheck**](https://github.com/Foxy556/hostcheck) | DNS, portas, HTTP e certificado TLS numa saída legível | Python · CLI |
+| 🧾 [**log-inspector**](https://github.com/Foxy556/log-inspector) | Agrupa e normaliza erros de log de aplicação e de acesso | Python · CLI |
+| 🔐 [**password-auditor**](https://github.com/Foxy556/password-auditor) | Auditor de senha que roda inteiro no navegador, sem rede | JavaScript · Web |
 
 > 🤖 Também mantenho um **bot all-in-one de Discord** (privado): `discord.js` + MongoDB,
 > com comandos de voz, tradução, TTS e verificação — testes automatizados e changelog.
@@ -80,6 +84,10 @@ back then.
 | ✈️ [**FlightDesk**](https://github.com/Foxy556/FlightDesk) | Operational checklists, incident tracking and blameless post-mortems | Next.js · Prisma · TypeScript |
 | 📝 [**apontamentos**](https://github.com/Foxy556/apontamentos) | Field logs and deviations with Notion sync, AI and 2FA | Next.js · Notion API · Groq |
 | 🌐 [**net_troubleshoot**](https://github.com/Foxy556/net_troubleshoot) | Layered network diagnostics (L2 → L7) with JSON reporting | Python · CLI |
+| 📡 [**status-page**](https://github.com/Foxy556/status-page) | Status page with live checks of public services | Next.js · TypeScript |
+| 🔎 [**hostcheck**](https://github.com/Foxy556/hostcheck) | DNS, ports, HTTP and TLS certificate in one readable output | Python · CLI |
+| 🧾 [**log-inspector**](https://github.com/Foxy556/log-inspector) | Groups and normalizes application and access log errors | Python · CLI |
+| 🔐 [**password-auditor**](https://github.com/Foxy556/password-auditor) | Password auditor that runs entirely in the browser, no network | JavaScript · Web |
 
 > 🤖 I also maintain an **all-in-one Discord bot** (private): `discord.js` + MongoDB, with
 > voice commands, translation and TTS — automated tests and a changelog.
