@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou Foxy 👋
+# Olá, eu sou Raul Luiz Celestino 👋
 
 ### Desenvolvedor full-stack — Next.js · TypeScript · Prisma
 
@@ -33,6 +33,10 @@ gostaria de ter tido** naquela época.
 | ✈️ [**FlightDesk**](https://github.com/Foxy556/FlightDesk) | Checklists operacionais, gestão de incidentes e post-mortems sem culpa | Next.js · Prisma · TypeScript |
 | 📝 [**apontamentos**](https://github.com/Foxy556/apontamentos) | Apontamentos e desvios de campo com sync Notion, IA e 2FA | Next.js · Notion API · Groq |
 | 🌐 [**net_troubleshoot**](https://github.com/Foxy556/net_troubleshoot) | Diagnóstico de rede em camadas (L2 → L7) com relatório JSON | Python · CLI |
+
+> 🤖 Também mantenho um **bot all-in-one de Discord** (privado): `discord.js` + MongoDB,
+> com comandos de voz, tradução, TTS e verificação — testes automatizados e changelog.
+> Disponível para demonstração sob pedido.
 
 **Stack**
 
@@ -76,6 +80,10 @@ back then.
 | ✈️ [**FlightDesk**](https://github.com/Foxy556/FlightDesk) | Operational checklists, incident tracking and blameless post-mortems | Next.js · Prisma · TypeScript |
 | 📝 [**apontamentos**](https://github.com/Foxy556/apontamentos) | Field logs and deviations with Notion sync, AI and 2FA | Next.js · Notion API · Groq |
 | 🌐 [**net_troubleshoot**](https://github.com/Foxy556/net_troubleshoot) | Layered network diagnostics (L2 → L7) with JSON reporting | Python · CLI |
+
+> 🤖 I also maintain an **all-in-one Discord bot** (private): `discord.js` + MongoDB, with
+> voice commands, translation and TTS — automated tests and a changelog.
+> Available for demonstration on request.
 
 **Stack:** Next.js · React · TypeScript · Prisma · Tailwind CSS · Node.js · Python · REST APIs
 
